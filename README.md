@@ -12,7 +12,6 @@
 	> meteor
 ```
 
-
-Example
+###Editing View###
 
 ![ScreenShot](/img/sample.png)
