@@ -14,4 +14,4 @@
 
 ###Editing View###
 
-![ScreenShot](/img/sample.png)
+<kbd>![ScreenShot](/img/sample.png)</kbd>
