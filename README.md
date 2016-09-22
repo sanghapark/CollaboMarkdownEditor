@@ -11,3 +11,6 @@
 	> npm install
 	> meteor
 ```
+
+
+![ScreenShot](/img/sample.png)
